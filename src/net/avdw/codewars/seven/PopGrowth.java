@@ -1,4 +1,4 @@
-package net.avdw.codewars;
+package net.avdw.codewars.seven;
 
 public class PopGrowth {
     public static int nbYear(int p0, double percent, int aug, int p) {

@@ -1,4 +1,4 @@
-package net.avdw.codewars;
+package net.avdw.codewars.seven;
 
 public class BeginnerSumOfNumbers {
     public int GetSum(int a, int b)

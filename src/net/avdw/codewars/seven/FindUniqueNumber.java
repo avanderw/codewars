@@ -1,4 +1,4 @@
-package net.avdw.codewars;
+package net.avdw.codewars.seven;
 
 import java.util.HashMap;
 import java.util.Map;

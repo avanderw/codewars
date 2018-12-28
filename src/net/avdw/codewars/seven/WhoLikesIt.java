@@ -1,4 +1,4 @@
-package net.avdw.codewars;
+package net.avdw.codewars.seven;
 
 public class WhoLikesIt {
     public static String whoLikesIt(String... names) {
